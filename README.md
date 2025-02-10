@@ -1,17 +1,14 @@
+# Hello therew👋 ,
 
-# Hi there 👋
+- 🔭 I am currently researching the influence of climatic patterns on the food supply chain in Kenya.
+- 🌱 I am in the process of enhancing my skills in data visualization through business intelligence tools, specifically Tableau Public, as well as cloud computing with 
+       Microsoft Azure.
+- 👯 I am seeking collaboration on impactful projects that address significant real-world challenges.
+- 🤔 I am also looking for opportunities to gain practical work experience or secure internships.
+- 📫 For inquiries, please reach me at: ...
+-
+-    🔗https://franklinekipruto.netlify.app
+-    
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Data does not lie.
 
-<!--
-**KiprutoKE/kiprutoKE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I'm currently working on the Influences Of Climatic Patterns on Food-Chain Supply In Kenya.
-- 🌱 I’m currently learning Data Visualization with BI Tools (Tableau Public) And Cloud Computing (Microsoft Azure)
-- 👯 I’m looking to collaborate on impactful projects that solve real-world problems 
-- 🤔 I’m looking for help with  gaining work experience or getting internships 
-- 
-- 📫 How to reach me: ... https://franklinekipruto.netlify.app/
-- 😄 Pronouns: ... HE/HIM
-- ⚡ Fun fact: .. Data Never Lies
--->
