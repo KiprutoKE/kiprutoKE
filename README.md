@@ -3,7 +3,6 @@
 🚀 **Aspiring Data Scientist |Front-end Developer |AI & ML Enthusiast**
 
 I am a passionate data science enthusiast with strong skills in **Python**, **Flask**, and **MongoDB**, along with knowledge of backend and networking fundamentals. My journey has been shaped by projects and collaborations that have honed my ability to uncover hidden insights in complex datasets. I thrive on analyzing patterns and discovering underlying stories, using analytical tools to extract meaningful conclusions that drive decisions and spark innovation. Turning raw data into actionable insights is both my passion and expertise.
----
 
 ## 🔧 Technologies & Tools
 
