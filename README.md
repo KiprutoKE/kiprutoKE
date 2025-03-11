@@ -10,7 +10,7 @@ I am a passionate data science enthusiast with strong skills in **Python**, **Fl
 - **Frameworks**: React, Flask, Tailwind CSS & lavarel is in working progress
 - **Tools**: Git, WinBox, VS Code, Jupyter Notebooks
 - **Networking**: M5 Loco, Lite Beams, DHCP, DNS, TCP/IP, WiFi Security
-- **Database**: MySQL, MongoDB skill in progress
+- **Database**: MySQL, MongoDB skills in progress
 
 ## 📚 Projects
 
@@ -31,7 +31,7 @@ I want to help build things that no one has done before. I'm particularly intere
 
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=github)](https://github.com/kiprutoKE)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/frankline-kipruto-2516141b0)
-[![Instagram](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=instagram)](https://instagram.com/_frankline._/)
+[![Instagram](https://img.shields.io/badge/-Instagram-Pink?style=flat-square&logo=instagram)](https://instagram.com/_frankline._/)
 
 ---
 Thank you for visiting! I encourage you to dive into my projects and connect with me. I’m dedicated to learning and sharing knowledge, and I know we can create something truly remarkable together! 
