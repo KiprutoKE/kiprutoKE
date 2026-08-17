@@ -10,7 +10,7 @@ I am a passionate data science enthusiast with strong skills in **Python**, **Fl
 - **Frameworks**: Flask, streamlit
 - **Tools**: Git, VS Code, Jupyter Notebooks
 - **Networking**: 
-- **Database**: MySQL, MongoDB skills in progress
+- **Database**: MySQL, MongoDB
 
 
 
